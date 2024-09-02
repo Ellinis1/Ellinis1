@@ -26,5 +26,5 @@
 - Ukrainian (fluent)
 - Spanish (beginner)
 
-Fun fact: 
+✨ Fun fact: 
 - I speak 4 languages on a day to day basis
