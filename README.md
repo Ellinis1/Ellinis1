@@ -20,7 +20,7 @@
 - communication and management
 
 🌐 Languages:
-- English (fluent) | French (fluent) | Russian (fluent) | Ukrainian (fluent) | Spanish (beginner)
+🇬🇧 English (fluent) | 🇫🇷 French (fluent) | 🇷🇺 Russian (fluent) | 🇺🇦 Ukrainian (fluent) | 🇪🇸 Spanish (beginner)
 
 ✨ Fun fact: 
 - I speak 4 languages on a day to day basis
