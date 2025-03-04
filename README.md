@@ -22,5 +22,7 @@
 🌐 Languages:
 🇬🇧 English (fluent) | 🇫🇷 French (fluent) | 🇷🇺 Russian (fluent) | 🇺🇦 Ukrainian (fluent) | 🇪🇸 Spanish (beginner)
 
+Portfolio: [GitHub portfolio](https://github.com/Ellinis1/data_analyst_portfolio)
+
 ✨ Fun fact: 
 - I speak 4 languages on a day to day basis
