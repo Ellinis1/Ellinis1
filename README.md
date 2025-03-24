@@ -4,7 +4,7 @@
 
 👩‍💻 Previously worked at Criteo, where I led a team of process experts in Finance, analyzed monthly publisher spend, implemented KPI and dashboards for stakeholders, implemented automation strategies to optimize closing process, reducing manual effort and improving data accuracy
 
-My CV in PDF format [link](https://github.com/Ellinis1/Ellinis1/blob/b75796679fa76a1f09aa517e06ce8f76a4547417/Data_Analyst_Anna_BORODINA.pdf)
+My CV in PDF can be downloaded [here](https://github.com/Ellinis1/Ellinis1/blob/b75796679fa76a1f09aa517e06ce8f76a4547417/Data_Analyst_Anna_BORODINA.pdf)
 
 💻 Technical stack: 
 - data analysis: Python (pandas, numpy, scikit-learn), SQL (BigQuery, DBeaver), Excel, Google Sheets
