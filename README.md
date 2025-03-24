@@ -21,6 +21,8 @@ My CV in PDF can be downloaded [here](https://github.com/Ellinis1/Ellinis1/blob/
 - problem-solving
 - communication and management
 
+📞 Experienced in working in Hybrid and Remote environments
+
 🌐 Languages:
 🇬🇧 English (fluent) | 🇫🇷 French (fluent) | 🇷🇺 Russian (fluent) | 🇺🇦 Ukrainian (fluent) | 🇪🇸 Spanish (beginner)
 
